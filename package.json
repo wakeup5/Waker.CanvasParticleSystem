@@ -1,0 +1,25 @@
+{
+    "name": "com.waker.canvasparticlesystems",
+    "version": "0.1.0",
+    "displayName": "Waker Canvas Particle Systems",
+    "description": "Unity Canvas 기반 고성능 파티클 시스템. Mesh 배치 렌더링과 Job System을 활용하여 수천 개의 파티클을 효율적으로 처리합니다.",
+    "unity": "2020.3",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "",
+    "dependencies": {
+        "com.unity.burst": "1.6.0",
+        "com.unity.mathematics": "1.2.1"
+    },
+    "keywords": [
+        "canvas",
+        "particle",
+        "ui",
+        "effect",
+        "performance"
+    ],
+    "author": {
+        "name": "Waker Team",
+        "url": ""
+    }
+}
